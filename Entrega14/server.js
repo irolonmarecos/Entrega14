@@ -147,4 +147,4 @@ server.on('error',(err)=>{
     logger.log('warn',`Error al iniciar el servidor ${err}`)
 })
 
-console.log('pruebaa');
+console.log('pruebaaa');
