@@ -146,3 +146,5 @@ const server= httpServer.listen(objeto.p, ()=>{
 server.on('error',(err)=>{
     logger.log('warn',`Error al iniciar el servidor ${err}`)
 })
+
+console.log('prueba');
